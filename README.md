@@ -1,2 +1,2 @@
 # sabor-express
-Repositório de teste
+Repositório de exemplo para trenamento com Python
